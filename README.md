@@ -1,2 +1,0 @@
-# mysticons
-MystiCons webpage
