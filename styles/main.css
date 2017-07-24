@@ -159,7 +159,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  padding: 2em 0 5em 0em; }
+  padding: 10em 0em; }
 
 .team-images {
   text-align: center; }
@@ -227,9 +227,6 @@ strong {
     margin-bottom: 40px;
     font-size: 300%; } }
 @media only screen and (max-width: 768px) {
-  .note {
-    padding: 15px; }
-
   .landing-new {
     background: url(../img/bg-small.jpg);
     background-size: cover;
@@ -249,7 +246,7 @@ strong {
     margin: 2vh auto;
     width: 95%; }
     .left p, .right p {
-      font-size: 1.3em;
+      font-size: 1.4em;
       margin-bottom: 0; }
     .left img, .right img {
       width: 800px; }
@@ -260,10 +257,8 @@ strong {
     display: block;
     margin-top: 5vh; }
     .team-member p {
-      padding-top: 0.5em;
-      padding-bottom: 1em;
-      font-size: 1.4em; } }
+      font-size: 2em; } }
 /* Medium Devices, Desktops */
 /* Large Devices, Wide Screens */
 
-/*# sourceMappingURL=main.min.css.map */
+/*# sourceMappingURL=main.css.map */
