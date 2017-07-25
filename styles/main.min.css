@@ -152,6 +152,9 @@ p {
   align-items: center;
   color: #e6e4e4; }
 
+.solution {
+  padding-bottom: 10vh; }
+
 .team {
   min-height: 100vh;
   background: url(../img/team.jpg);
@@ -203,6 +206,13 @@ strong {
 
 .clear {
   clear: both; }
+
+.note-center {
+  width: 100%; }
+
+.spacer {
+  min-height: 4vh;
+  width: 100%; }
 
 /* Custom, iPhone Retina */
 /* Extra Small Devices, Phones */
